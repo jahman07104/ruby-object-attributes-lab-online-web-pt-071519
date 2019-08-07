@@ -6,7 +6,6 @@ class Dog
     @name = dogs_name
   end
   
-end
  def name
     @name
   end
