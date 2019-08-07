@@ -13,5 +13,5 @@ class Person
   end
   
 end
- name = Dog.new
- name.name = "Fido" 
+ beyonce = Person.new
+ name.name = "beyonce" 
