@@ -6,10 +6,10 @@ class Person
     @name = beyonce
   end
   def breed
-       @breed
+       @job
   end
-  def breed=(beagle)
-      @breed = beagle
+  def job=(singer)
+      @job = singer
   end
   
 end
