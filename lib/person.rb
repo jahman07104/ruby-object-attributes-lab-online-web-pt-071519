@@ -2,8 +2,8 @@ class Person
   def name
     @name
   end
-  def name=(dogs_name)
-    @name = dogs_name
+  def name=(name)
+    @name = beyonce
   end
   def breed
        @breed
@@ -14,4 +14,4 @@ class Person
   
 end
  beyonce = Person.new
- name.name = "beyonce" 
+ beyonc.name = "Beyonce" 
