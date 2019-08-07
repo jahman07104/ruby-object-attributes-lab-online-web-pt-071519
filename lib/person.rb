@@ -2,7 +2,7 @@ class Person
   def name
     @name
   end
-  def name=(name)
+  def name=(beyonce)
     @name = beyonce
   end
   def breed
