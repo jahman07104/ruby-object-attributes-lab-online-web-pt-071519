@@ -8,7 +8,7 @@ class Person
   def job
        @job
   end
-  def job =(singer)
+  def job (singer)
       @job = singer
   end
   
